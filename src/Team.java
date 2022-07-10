@@ -1,13 +1,3 @@
-
-/**
- * Class Car:
- * 
- * A simple class to model a team.
- *
- * @author David Mathias
- * @version September 17, 2018
- */
-
 public class Team
 {
     // attributes
